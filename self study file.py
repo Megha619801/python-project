@@ -39,6 +39,10 @@ print(f"the price of the car is {car}")
 number=6/7
 print(f"the number is {number:.2f}")
 
+length_str = input("what is the length :  ")
+width  = input("what is the width  :  ")
+
+
 
 
 
